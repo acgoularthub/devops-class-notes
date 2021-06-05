@@ -1,4 +1,4 @@
-## "Ta sem tempo? Faz o que etá certo."
+## "Ta sem tempo? Faz o que dá certo."
 
 # Zen to done (ZTD)
 
